@@ -11,7 +11,6 @@ end
 
 subgraph a2
 SulAcid
-Water
 Kalzit
 Coal
 HeavyOil
@@ -28,9 +27,6 @@ Gear1-->YellowBelt
 IronPlate-->YellowBelt
 YellowBelt-->RedBelt
 Gear2-->RedBelt
-
-SulAcid-->Water
-Kalzit-->Water
 
 SulAcid-->HeavyOil
 Kalzit-->HeavyOil
